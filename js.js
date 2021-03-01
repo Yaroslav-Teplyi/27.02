@@ -25,6 +25,7 @@ longWord('')
 longWord('1')
 
 console.log('Task 2---------------------')
+
 function capsLock(str) {
     let splitedString = str.split(' ')
     let resultStringsArray = [];
